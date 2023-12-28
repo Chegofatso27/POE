@@ -1,0 +1,1 @@
+﻿create view[dbo].[TopicName] as select TopicId,TopicName from [Topics]
